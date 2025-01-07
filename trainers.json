@@ -1,0 +1,134 @@
+{
+    "trainers": {
+        "Brock": {
+            "name": "Brock",
+            "pokemon": [
+                {
+                    "name": "Onix",
+                    "level": 12,
+                    "moves": [
+                        "Tackle",
+                        "Bind",
+                        "Rock Throw",
+                        "Harden"
+                    ]
+                },
+                {
+                    "name": "Clefairy",
+                    "level": 10,
+                    "moves": [
+                        "Pound",
+                        "Sing",
+                        "Encore",
+                        "Metronome"
+                    ]
+                },
+                {
+                    "name": "Vulpix",
+                    "level": 10,
+                    "moves": [
+                        "Ember",
+                        "Quick Attack",
+                        "Will-O-Wisp",
+                        "Confuse Ray"
+                    ]
+                },
+                {
+                    "name": "Kabutops",
+                    "level": 14,
+                    "moves": [
+                        "Scratch",
+                        "Harden",
+                        "Absorb",
+                        "Mud Shot"
+                    ]
+                },
+                {
+                    "name": "Cubone",
+                    "level": 12,
+                    "moves": [
+                        "Bone Club",
+                        "Growl",
+                        "Headbutt",
+                        "Tail Whip"
+                    ]
+                },
+                {
+                    "name": "Golem",
+                    "level": 15,
+                    "moves": [
+                        "Tackle",
+                        "Defense Curl",
+                        "Rock Throw",
+                        "Magnitude"
+                    ]
+                }
+            ]
+        },
+        "Misty": {
+            "name": "Misty",
+            "pokemon": [
+                {
+                    "name": "Starmie",
+                    "level": 21,
+                    "moves": [
+                        "Water Gun",
+                        "Rapid Spin",
+                        "Recover",
+                        "Swift"
+                    ]
+                },
+                {
+                    "name": "Psyduck",
+                    "level": 18,
+                    "moves": [
+                        "Water Gun",
+                        "Scratch",
+                        "Disable",
+                        "Confusion"
+                    ]
+                },
+                {
+                    "name": "Seaking",
+                    "level": 22,
+                    "moves": [
+                        "Peck",
+                        "Supersonic",
+                        "Horn Attack",
+                        "Water Pulse"
+                    ]
+                },
+                {
+                    "name": "Lapras",
+                    "level": 24,
+                    "moves": [
+                        "Body Slam",
+                        "Ice Beam",
+                        "Confuse Ray",
+                        "Water Pulse"
+                    ]
+                },
+                {
+                    "name": "Golduck",
+                    "level": 23,
+                    "moves": [
+                        "Water Pulse",
+                        "Psychic",
+                        "Aqua Jet",
+                        "Calm Mind"
+                    ]
+                },
+                {
+                    "name": "Tentacruel",
+                    "level": 25,
+                    "moves": [
+                        "Poison Jab",
+                        "Wrap",
+                        "Bubble Beam",
+                        "Acid Spray"
+                    ]
+                }
+            ]
+        }
+    }
+}
